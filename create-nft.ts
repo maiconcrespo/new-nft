@@ -76,3 +76,4 @@ console.log(
     "devnet"
   )}`
 );
+//after run npx esrun create-nft.ts
